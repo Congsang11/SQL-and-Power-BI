@@ -1,2 +1,2 @@
 # SQL-and-Power-BI project
-This an end to end power BI dashboard creation project
+Data analysis and interactive dashboard creation using SQL and Power BI.
